@@ -4,7 +4,7 @@
 </template>
 <script>
   /**
-   * v1.0
+   * v2.0
    */
   let PIXI = require('pixi.js')
   let pixiSpine = require('pixi-spine')
