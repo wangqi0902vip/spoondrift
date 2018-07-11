@@ -1,0 +1,27 @@
+
+beach.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sea1
+  rotate: true
+  xy: 2, 29
+  size: 25, 210
+  orig: 25, 210
+  offset: 0, 0
+  index: -1
+sea2
+  rotate: true
+  xy: 2, 2
+  size: 25, 136
+  orig: 25, 136
+  offset: 0, 0
+  index: -1
+sea3
+  rotate: false
+  xy: 2, 56
+  size: 960, 69
+  orig: 960, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+jump.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backlight1
+  rotate: false
+  xy: 704, 449
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+backlight2
+  rotate: false
+  xy: 704, 723
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+backshadow
+  rotate: true
+  xy: 520, 129
+  size: 233, 104
+  orig: 233, 104
+  offset: 0, 0
+  index: -1
+banner1
+  rotate: false
+  xy: 2, 529
+  size: 674, 153
+  orig: 674, 153
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 601, 469
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+seagrass
+  rotate: false
+  xy: 2, 684
+  size: 700, 311
+  orig: 700, 311
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 601, 417
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 2, 364
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 2, 184
+  size: 516, 178
+  orig: 516, 178
+  offset: 0, 0
+  index: -1
+text3
+  rotate: false
+  xy: 2, 2
+  size: 478, 180
+  orig: 478, 180
+  offset: 0, 0
+  index: -1
