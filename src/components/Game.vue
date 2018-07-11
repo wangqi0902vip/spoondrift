@@ -3,6 +3,9 @@
   </div>
 </template>
 <script>
+  /**
+   * v1.0
+   */
   let PIXI = require('pixi.js')
   let pixiSpine = require('pixi-spine')
   import resource from '../../static/game/resource.json'
